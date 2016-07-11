@@ -1,0 +1,8 @@
+bokeh- commands in python instead of JavaScript
+amCharts- simple, only basic options, good visual editor for CSV format, converts to XML format
+D3.js- Document Object Model framework (interface that treats HTML/XHTML/XML as a tree with each node as an object representing part of the document), takes World Wide Web Consortium (W3C) API and makes it more manageable
+Flot- jQuery based
+Highcharts- uses HTML5 and JavaScript
+CanvasJS- uses HTML5 and JavaScript as well
+JFreechart- Java based, can handle large amounts of data
+PyQtGraph- fast, python based

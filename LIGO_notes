@@ -1,0 +1,16 @@
+Current status of summary pages- talk to Steve
+Figure out daily hang-up issues
+Screep captures of MEDM screens while they are note executing
+Learn about NDS
+Refresh button implementation (?)
+BLRMS- frequency bins
+New plot that takes in different channels to plot bands on one graph
+PEM channel lookup system
+Live plots- interactivity: designing backend system with user interface
+-bokeh library
+-plotly library
+-backend written using gwpy
+-Eric Fries- LOSC libraries (?)
+-Jess McIver- detchar
+controls@nodus.ligo.caltech.edu hirakawa rabi lovelace
+

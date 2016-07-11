@@ -1,0 +1,21 @@
+To do:
+Learn how the interactive/hovering plots are made- differences between them and 	static plots
+Figure out how to measure acoustic noise
+Learn how python code of gwsumm works
+implement MEDM screen capture scripts
+
+Accomplished:
+Basic generation of summary pages from optimus (albeit manual)
+Got a working, "completed" test of generating summary pages (still manual steps)
+Working generation of summary pages from C1 data
+Generated full summary page from C1 data using all configuration files on clusters
+Learned XML, JavaScript, HTML/HTML5
+Added VMon and Sensors to parent SUS tab- suspension coil voltage monitor
+New tabs added to main summary pages
+Learned how to display simple plots
+
+Data flow at 40m: Signal sent from sensor through a filter to analog-digital converter to expansion chasee (intermediate) to front-end machines to frame-builder
+
+
+
+
